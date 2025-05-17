@@ -1,5 +1,24 @@
 {
   "dependencies": {
-    "figlet": "^1.8.1"
-  }
+    "figlet": "^1.8.1",
+    "random-words": "^2.0.1"
+  },
+  "name": "node2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rameshtiwary95/sigma6-node.git"
+  },
+  "author": "Ramesh kumar",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Rameshtiwary95/sigma6-node/issues"
+  },
+  "homepage": "https://github.com/Rameshtiwary95/sigma6-node#readme"
 }
